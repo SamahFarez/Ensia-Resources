@@ -14,7 +14,7 @@ Welcome to the ENSIA School Resources repository! This repository serves as a ce
 
 ## About ENSIA
 
-ENSIA (Ecole Nationale Supérieure d'Intelligence Artificielle / National School of Artificial Intelligence) is a leading institution dedicated to providing high-quality education in artificial intelligence and related fields. Our mission is to empower students with the knowledge and skills needed to excel in the technology-driven world.
+ENSIA (Ecole Nationale Supérieure d'Intelligence Artificielle / National School of Artificial Intelligence) is a leading institution located in Algeria, dedicated to providing high-quality education in artificial intelligence and related fields. The mission of ENSIA is to empower students with the knowledge and skills needed to excel in the technology-driven world.
 
 ## Repository Structure
 
