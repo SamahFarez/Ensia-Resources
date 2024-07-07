@@ -7,9 +7,10 @@ Welcome to the ENSIA School Resources repository! This repository serves as a ce
 1. [About ENSIA](#about-ensia)
 2. [Repository Structure](#repository-structure)
 3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+4. [External Resources](#external-resources)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
 ## About ENSIA
 
@@ -45,6 +46,26 @@ The repository is organized into the following directories:
 3. **Open the files:**
 
     Open the files using your preferred module or subject.
+
+## External Resources
+
+For additional materials, you can also visit the following websites:
+
+- [ENSIApedia](https://ensiapedia.vercel.app/courses.html)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
+- [ArXiv](https://arxiv.org/)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [Brilliant](https://brilliant.org/home/)
+- [ENSIA Official Website](http://ensia.edu.dz)
+- [ENSIA School Resources](https://schoolensia.netlify.app/)
+- [ENSIA Hub](https://ensia-hub.netlify.app/)
+- [Harvard Online Learning](https://online-learning.harvard.edu/)
+- [Stanford Online](https://online.stanford.edu/)
+- [UC Berkeley Online Learning](https://www.berkeley.edu/academics/online-learning)
+- [Caltech Online](https://www.caltech.edu/academics/online-education)
+- [King Saud University](https://www.ksu.edu.sa/)
+- [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
+
 
 ## Contributing
 
