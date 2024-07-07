@@ -59,12 +59,12 @@ For additional materials, you can also visit the following websites:
 - [ENSIA Official Website](http://ensia.edu.dz)
 - [ENSIA School Resources](https://schoolensia.netlify.app/)
 - [ENSIA Hub](https://ensia-hub.netlify.app/)
+- [Tresor ESI]([https://www.universite-paris-saclay.fr/](https://tresor.cse.club/))
 - [Harvard Online Learning](https://online-learning.harvard.edu/)
 - [Stanford Online](https://online.stanford.edu/)
 - [UC Berkeley Online Learning](https://www.berkeley.edu/academics/online-learning)
 - [Caltech Online](https://www.caltech.edu/academics/online-education)
 - [King Saud University](https://www.ksu.edu.sa/)
-- [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
 
 
 ## Contributing
