@@ -54,8 +54,6 @@ For additional materials, you can also visit the following websites:
 - [ENSIApedia](https://ensiapedia.vercel.app/courses.html)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [ArXiv](https://arxiv.org/)
-- [3Blue1Brown](https://www.3blue1brown.com/)
-- [Brilliant](https://brilliant.org/home/)
 - [ENSIA Official Website](http://ensia.edu.dz)
 - [ENSIA School Resources](https://schoolensia.netlify.app/)
 - [ENSIA Hub](https://ensia-hub.netlify.app/)
@@ -63,8 +61,6 @@ For additional materials, you can also visit the following websites:
 - [Harvard Online Learning](https://online-learning.harvard.edu/)
 - [Stanford Online](https://online.stanford.edu/)
 - [UC Berkeley Online Learning](https://www.berkeley.edu/academics/online-learning)
-- [Caltech Online](https://www.caltech.edu/academics/online-education)
-- [King Saud University](https://www.ksu.edu.sa/)
 
 
 ## Contributing
